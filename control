@@ -1,0 +1,9 @@
+Package: com.xvalex.hashreplace
+Name: HashReplace
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Replace any word with its own Sha1!
+Maintainer: X_vale_X
+Author: X_vale_X
+Section: Tweaks
